@@ -13,7 +13,7 @@ function fail {
 function install {
 	#settings
 	USER="alien-chain"
-	PROG="alien"
+	PROG="aliend"
 	MOVE="false"
 	RELEASE="latest"
 	INSECURE="false"
