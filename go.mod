@@ -1,3 +1,3 @@
-module alien.blue/installer
+module alien.blue/alieninstall
 
 go 1.17
