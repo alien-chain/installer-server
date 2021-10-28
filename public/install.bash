@@ -17,7 +17,7 @@ function install {
 	MOVE="false"
 	RELEASE="latest"
 	INSECURE="false"
-	OUT_DIR="$(pwd)"
+	OUT_DIR="$HOME/go/bin"
 	GH="https://github.com"
 	#bash check
 	[ ! "$BASH_VERSION" ] && fail "Please use bash instead"
